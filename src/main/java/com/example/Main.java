@@ -20,7 +20,7 @@ import org.glassfish.jersey.server.ResourceConfig;
 
 /**
  * Main class.
- * modify and push to github
+ * modify and push to github again2
  */
 public class Main {
     // Base URI the Grizzly HTTP server will listen on
